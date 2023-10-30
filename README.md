@@ -15,3 +15,5 @@ http://wiki.unity3d.com/index.php/Finite_State_Machine .I have made a
 little change.Mainly add a StateChange Event.Through the Event,it's easy 
 
 to change the state in FSMState.
+
+All welcome
